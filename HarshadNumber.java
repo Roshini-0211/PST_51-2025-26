@@ -1,0 +1,11 @@
+package PST;
+import java .util.Scanner;
+
+public class HarshadNumber {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
