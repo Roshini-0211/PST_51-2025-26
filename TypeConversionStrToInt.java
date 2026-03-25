@@ -6,8 +6,8 @@ public class TypeConversionStrToInt {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter a String : ");
 		String str=sc.next();
-		int num=Integer.parseInt(str);
-		System.out.println("The Integer is "+num);
+		int n=Integer.parseInt(str);
+		System.out.println("The Integer is "+n);
 
 	}
 
